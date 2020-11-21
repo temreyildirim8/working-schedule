@@ -1,0 +1,8 @@
+.sl-container {
+  width: 100%;
+  margin: 15px 0;
+  .sl-main {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+  }
+}
